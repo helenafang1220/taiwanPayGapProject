@@ -4,3 +4,4 @@ According to The United Nations Development Programme (UNDP), Taiwan has receive
 
 In this post, I began with analysing the pay gap in Taiwanese creative arts industry, as it gives the impression of average lower income. I’m curious whether women are earning reasonable opportunities and salaries in the industry. Then, I gathered a selection of cultural industries, in order to provide a broader view on the topic.
 
+See full report <a href="https://helenafang1220.github.io/porfolio_webpage/paygap.html"> Here </a>
