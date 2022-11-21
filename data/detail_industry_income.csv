@@ -1,0 +1,211 @@
+﻿Year,Income,Gender,Industry
+2006,50233 ,Male,Publishing
+2007,51207 ,Male,Publishing
+2008,51273 ,Male,Publishing
+2009,50269 ,Male,Publishing
+2010,52917 ,Male,Publishing
+2011,54975 ,Male,Publishing
+2012,55134 ,Male,Publishing
+2013,56823 ,Male,Publishing
+2014,57584 ,Male,Publishing
+2015,59486 ,Male,Publishing
+2016,58526 ,Male,Publishing
+2017,60246 ,Male,Publishing
+2018,62679 ,Male,Publishing
+2019,64963 ,Male,Publishing
+2020,66395 ,Male,Publishing
+2006,48312 ,Female,Publishing
+2007,48744 ,Female,Publishing
+2008,48201 ,Female,Publishing
+2009,48309 ,Female,Publishing
+2010,49514 ,Female,Publishing
+2011,51355 ,Female,Publishing
+2012,49749 ,Female,Publishing
+2013,50313 ,Female,Publishing
+2014,51152 ,Female,Publishing
+2015,52556 ,Female,Publishing
+2016,52287 ,Female,Publishing
+2017,53152 ,Female,Publishing
+2018,53034 ,Female,Publishing
+2019,53460 ,Female,Publishing
+2020,54504 ,Female,Publishing
+2006,45094 ,Male,Television and Music Production
+2007,44818 ,Male,Television and Music Production
+2008,45963 ,Male,Television and Music Production
+2009,36965 ,Male,Television and Music Production
+2010,38734 ,Male,Television and Music Production
+2011,39233 ,Male,Television and Music Production
+2012,38827 ,Male,Television and Music Production
+2013,39696 ,Male,Television and Music Production
+2014,40625 ,Male,Television and Music Production
+2015,39626 ,Male,Television and Music Production
+2016,39689 ,Male,Television and Music Production
+2017,41541 ,Male,Television and Music Production
+2018,42586 ,Male,Television and Music Production
+2019,42496 ,Male,Television and Music Production
+2020,44602 ,Male,Television and Music Production
+2006,39482 ,Female,Television and Music Production
+2007,39807 ,Female,Television and Music Production
+2008,39913 ,Female,Television and Music Production
+2009,36213 ,Female,Television and Music Production
+2010,39016 ,Female,Television and Music Production
+2011,40317 ,Female,Television and Music Production
+2012,40292 ,Female,Television and Music Production
+2013,42596 ,Female,Television and Music Production
+2014,38811 ,Female,Television and Music Production
+2015,38589 ,Female,Television and Music Production
+2016,40757 ,Female,Television and Music Production
+2017,41330 ,Female,Television and Music Production
+2018,41380 ,Female,Television and Music Production
+2019,41321 ,Female,Television and Music Production
+2020,43460 ,Female,Television and Music Production
+2006,47317 ,Male,Radio and Television
+2007,47689 ,Male,Radio and Television 
+2008,49039 ,Male,Radio and Television 
+2009,48284 ,Male,Radio and Television 
+2010,50568 ,Male,Radio and Television 
+2011,53113 ,Male,Radio and Television 
+2012,53525 ,Male,Radio and Television 
+2013,52646 ,Male,Radio and Television 
+2014,51692 ,Male,Radio and Television 
+2015,52546 ,Male,Radio and Television 
+2016,51639 ,Male,Radio and Television 
+2017,51234 ,Male,Radio and Television 
+2018,50905 ,Male,Radio and Television 
+2019,50132 ,Male,Radio and Television 
+2020,51273 ,Male,Radio and Television 
+2006,45183 ,Female,Radio and Television 
+2007,45621 ,Female,Radio and Television 
+2008,45330 ,Female,Radio and Television 
+2009,45614 ,Female,Radio and Television 
+2010,48637 ,Female,Radio and Television 
+2011,47765 ,Female,Radio and Television 
+2012,49383 ,Female,Radio and Television 
+2013,48741 ,Female,Radio and Television 
+2014,45964 ,Female,Radio and Television 
+2015,47488 ,Female,Radio and Television 
+2016,45665 ,Female,Radio and Television 
+2017,46414 ,Female,Radio and Television 
+2018,47801 ,Female,Radio and Television 
+2019,49153 ,Female,Radio and Television 
+2020,49969 ,Female,Radio and Television 
+2006,49987 ,Male,Advertising and Marketing
+2007,46227 ,Male,Advertising and Marketing
+2008,45247 ,Male,Advertising and Marketing
+2009,41954 ,Male,Advertising and Marketing
+2010,42605 ,Male,Advertising and Marketing
+2011,43520 ,Male,Advertising and Marketing
+2012,45247 ,Male,Advertising and Marketing
+2013,46298 ,Male,Advertising and Marketing
+2014,47492 ,Male,Advertising and Marketing
+2015,47994 ,Male,Advertising and Marketing
+2016,46032 ,Male,Advertising and Marketing
+2017,45528 ,Male,Advertising and Marketing
+2018,47329 ,Male,Advertising and Marketing
+2019,50911 ,Male,Advertising and Marketing
+2020,53340 ,Male,Advertising and Marketing
+2006,48485 ,Female,Advertising and Marketing
+2007,47322 ,Female,Advertising and Marketing
+2008,45950 ,Female,Advertising and Marketing
+2009,44040 ,Female,Advertising and Marketing
+2010,48936 ,Female,Advertising and Marketing
+2011,49642 ,Female,Advertising and Marketing
+2012,49364 ,Female,Advertising and Marketing
+2013,50013 ,Female,Advertising and Marketing
+2014,50527 ,Female,Advertising and Marketing
+2015,50890 ,Female,Advertising and Marketing
+2016,48112 ,Female,Advertising and Marketing
+2017,46897 ,Female,Advertising and Marketing
+2018,48048 ,Female,Advertising and Marketing
+2019,51450 ,Female,Advertising and Marketing
+2020,51284 ,Female,Advertising and Marketing
+2006,63469 ,Male,Design
+2007,67798 ,Male,Design
+2008,75662 ,Male,Design
+2009,58325 ,Male,Design
+2010,58812 ,Male,Design
+2011,62549 ,Male,Design
+2012,63354 ,Male,Design
+2013,60048 ,Male,Design
+2014,63519 ,Male,Design
+2015,66045 ,Male,Design
+2016,66020 ,Male,Design
+2017,66083 ,Male,Design
+2018,68037 ,Male,Design
+2019,70023 ,Male,Design
+2020,71202 ,Male,Design
+2006,47911 ,Female,Design
+2007,50342 ,Female,Design
+2008,55881 ,Female,Design
+2009,44418 ,Female,Design
+2010,45573 ,Female,Design
+2011,46317 ,Female,Design
+2012,48562 ,Female,Design
+2013,48856 ,Female,Design
+2014,49705 ,Female,Design
+2015,51562 ,Female,Design
+2016,52298 ,Female,Design
+2017,54394 ,Female,Design
+2018,53995 ,Female,Design
+2019,57825 ,Female,Design
+2020,53411 ,Female,Design
+2006,47309 ,Male,Art and Performance
+2007,44876 ,Male,Art and Performance
+2008,44792 ,Male,Art and Performance
+2009,47521 ,Male,Art and Performance
+2010,46740 ,Male,Art and Performance
+2011,43737 ,Male,Art and Performance
+2012,48775 ,Male,Art and Performance
+2013,49029 ,Male,Art and Performance
+2014,42969 ,Male,Art and Performance
+2015,40501 ,Male,Art and Performance
+2016,41535 ,Male,Art and Performance
+2017,43292 ,Male,Art and Performance
+2018,45218 ,Male,Art and Performance
+2019,44416 ,Male,Art and Performance
+2020,45055 ,Male,Art and Performance
+2006,27670 ,Female,Art and Performance
+2007,27519 ,Female,Art and Performance
+2008,27416 ,Female,Art and Performance
+2009,30928 ,Female,Art and Performance
+2010,31789 ,Female,Art and Performance
+2011,30920 ,Female,Art and Performance
+2012,33978 ,Female,Art and Performance
+2013,35576 ,Female,Art and Performance
+2014,35644 ,Female,Art and Performance
+2015,35599 ,Female,Art and Performance
+2016,37823 ,Female,Art and Performance
+2017,38692 ,Female,Art and Performance
+2018,42287 ,Female,Art and Performance
+2019,43580 ,Female,Art and Performance
+2020,41367 ,Female,Art and Performance
+2006,36993 ,Male,Sports and Leisure Entertainment
+2007,36985 ,Male,Sports and Leisure Entertainment
+2008,37874 ,Male,Sports and Leisure Entertainment
+2009,36227 ,Male,Sports and Leisure Entertainment
+2010,37922 ,Male,Sports and Leisure Entertainment
+2011,38694 ,Male,Sports and Leisure Entertainment
+2012,40993 ,Male,Sports and Leisure Entertainment
+2013,41529 ,Male,Sports and Leisure Entertainment
+2014,41993 ,Male,Sports and Leisure Entertainment
+2015,44069 ,Male,Sports and Leisure Entertainment
+2016,44900 ,Male,Sports and Leisure Entertainment
+2017,45909 ,Male,Sports and Leisure Entertainment
+2018,46802 ,Male,Sports and Leisure Entertainment
+2019,47745 ,Male,Sports and Leisure Entertainment
+2020,49482 ,Male,Sports and Leisure Entertainment
+2006,24954 ,Female,Sports and Leisure Entertainment
+2007,25058 ,Female,Sports and Leisure Entertainment
+2008,25122 ,Female,Sports and Leisure Entertainment
+2009,24131 ,Female,Sports and Leisure Entertainment
+2010,25431 ,Female,Sports and Leisure Entertainment
+2011,26284 ,Female,Sports and Leisure Entertainment
+2012,27463 ,Female,Sports and Leisure Entertainment
+2013,27696 ,Female,Sports and Leisure Entertainment
+2014,27653 ,Female,Sports and Leisure Entertainment
+2015,27077 ,Female,Sports and Leisure Entertainment
+2016,27061 ,Female,Sports and Leisure Entertainment
+2017,27026 ,Female,Sports and Leisure Entertainment
+2018,28016 ,Female,Sports and Leisure Entertainment
+2019,28888 ,Female,Sports and Leisure Entertainment
+2020,30002 ,Female,Sports and Leisure Entertainment
